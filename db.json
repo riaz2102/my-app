@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": "101",
+      "title": "Wireless Bluetooth Headphones",
+      "description": "High-quality over-ear Bluetooth headphones with noise cancellation and 30-hour battery life.",
+      "price": 79.99,
+      "discountPercentage": 10,
+      "rating": 4.5,
+      "stock": 120,
+      "brand": "SoundMax",
+      "category": "electronics",
+      "thumbnail": "https://example.com/images/headphones-thumb.jpg",
+      "images": [
+        "https://example.com/images/headphones-1.jpg",
+        "https://example.com/images/headphones-2.jpg"
+      ]
+    },
+    {
+      "id": "102",
+      "title": "Smartwatch Series 5",
+      "description": "Feature-rich smartwatch with heart-rate monitor, GPS, and fitness tracking.",
+      "price": 149.99,
+      "discountPercentage": 15,
+      "rating": 4.7,
+      "stock": 85,
+      "brand": "TechTime",
+      "category": "wearables",
+      "thumbnail": "https://example.com/images/smartwatch-thumb.jpg",
+      "images": [
+        "https://example.com/images/smartwatch-1.jpg",
+        "https://example.com/images/smartwatch-2.jpg"
+      ]
+    },
+    {
+      "id": "103",
+      "title": "Men's Casual Sneakers",
+      "description": "Stylish and comfortable sneakers made with breathable materials and rubber soles.",
+      "price": 59.99,
+      "discountPercentage": 5,
+      "rating": 4.3,
+      "stock": 200,
+      "brand": "UrbanStep",
+      "category": "fashion",
+      "thumbnail": "https://example.com/images/sneakers-thumb.jpg",
+      "images": [
+        "https://example.com/images/sneakers-1.jpg",
+        "https://example.com/images/sneakers-2.jpg"
+      ]
+    },
+    {
+      "id": "104",
+      "title": "4K Ultra HD Smart TV (50-inch)",
+      "description": "50-inch LED Smart TV with 4K resolution, HDR, and built-in streaming apps.",
+      "price": 499.99,
+      "discountPercentage": 20,
+      "rating": 4.8,
+      "stock": 45,
+      "brand": "VisionPro",
+      "category": "electronics",
+      "thumbnail": "https://example.com/images/tv-thumb.jpg",
+      "images": [
+        "https://example.com/images/tv-1.jpg",
+        "https://example.com/images/tv-2.jpg"
+      ]
+    },
+    {
+  "id": "106",
+  "title": "Wireless Noise Cancelling Headphones",
+  "description": "Over-ear Bluetooth headphones with active noise cancellation, 30-hour battery life, and deep bass sound.",
+  "price": 149.99,
+  "discountPercentage": 15,
+  "rating": 4.6,
+  "stock": 80,
+  "brand": "SoundMax",
+  "category": "electronics",
+  "thumbnail": "https://example.com/images/headphones-thumb.jpg",
+  "images": [
+    "https://example.com/images/headphones-1.jpg",
+    "https://example.com/images/headphones-2.jpg",
+    "https://example.com/images/headphones-3.jpg"
+  ]
+},
+
+    {
+      "id": "105",
+      "title": "Leather Office Chair",
+      "description": "Ergonomic leather office chair with adjustable height, tilt, and lumbar support.",
+      "price": 199.99,
+      "discountPercentage": 12,
+      "rating": 4.4,
+      "stock": 60,
+      "brand": "ComfortZone",
+      "category": "furniture",
+      "thumbnail": "https://example.com/images/chair-thumb.jpg",
+      "images": [
+        "https://example.com/images/chair-1.jpg",
+        "https://example.com/images/chair-2.jpg"
+      ]
+    }
+  ]
+}
