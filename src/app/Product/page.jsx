@@ -24,7 +24,7 @@ const page = async () => {
               key={data.id}
             >
               <div>
-                <h1 className="font-semibold text-3xl text-red-500">
+                <h1 className="font-semibold text-3xl text-red-800">
                   {data.title}
                 </h1>
                 <p>{data.description}</p>

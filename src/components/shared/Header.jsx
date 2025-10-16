@@ -3,10 +3,13 @@ import Link from "next/link";
 const Header = () => {
   return (
     <div>
-      <div className="bg-gray-200 shadow-2xl py-4  ">
+      <div className="bg-pink-50 shadow-2xl py-4  ">
         <div className="flex justify-between container mx-auto items-center ">
-          <div className="font-light text-4xl ">
-            <h1>Rs Group</h1>
+          <div className="flex items-center space-x-2">
+            <span className="text-3xl font-extrabold text-pink-700">RS</span>
+            <span className="text-xl font-semibold text-gray-800 tracking-wide">
+              Group
+            </span>
           </div>
 
           <div className=" flex gap-12 font-semibold  ">
